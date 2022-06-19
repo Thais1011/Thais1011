@@ -1,12 +1,11 @@
 <h1>I'm Thaís Monteoliva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thais1011&color=yellow" alt="Profile views" /> </p>
 
-- DRACARYS🔥 
+ 🔥 DRACARYS 🔥 
 - Tech Student looking for opportunities to show the world a little bit of my work!
-- Love animals (specially Dogs)
+- Love animals (specially Dogs) 
 <br><br>
 
--🔥
 
 ## 🛠 &nbsp;Tech Stack
 

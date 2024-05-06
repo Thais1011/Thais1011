@@ -3,7 +3,9 @@
 
  🔥 DRACARYS 🔥 
 - Tech Student looking for opportunities to show the world a little bit of my work!
-- Love animals (specially Dogs) 
+- Working with Java (SpringBoot), NodeJs (Nest), and Javascript (React) at Bees <3
+- Worked with SRE and Cloud Database
+- Love animals (especially Dogs) 
 <br><br>
 
 
